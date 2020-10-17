@@ -7,3 +7,5 @@ tags:
   - created
 ---
 # new
+
+![](/src/static/img/icon.svg)
