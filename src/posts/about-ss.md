@@ -7,3 +7,5 @@ tags:
   - Tags
 ---
 THis is new blog post by SS
+
+`<iframe src="https://player.vimeo.com/video/165757426" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`
