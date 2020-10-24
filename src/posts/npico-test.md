@@ -9,7 +9,7 @@ tags:
 ---
 # Nano Pico
 
-https://player.vimeo.com/video/165757426
+<iframe src="https://player.vimeo.com/video/165757426?badge=0&autopause=1&color=cc272d&byline=0&portrait=0&title=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 [https://vimeo.com/165757426](https://vimeo.com/165757426)
